@@ -6,7 +6,7 @@ const Layout = ({ children }) => {
     const router = useRouter();
 
     useEffect(() => {
-        router.push('https://youtu.be/a3Z7zEc7AXQ')
+        router.push('https://youtu.be/uHgt8giw1LY')
     })
     return (
         <>
